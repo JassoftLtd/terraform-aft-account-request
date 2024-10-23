@@ -23,5 +23,5 @@ module "jon_sandbox" {
     group = "non-prod"
   }
 
-#  account_customizations_name = "freetakserver"
+  account_customizations_name = "sandbox"
 }
